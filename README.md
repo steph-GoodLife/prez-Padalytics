@@ -1,6 +1,6 @@
 # 🎾 Padalytics – L'analytique de performance au service du padel
 
-**Padalytics** est une application mobile connectée à une raquette intelligente, permettant aux joueurs de padel de suivre leurs performances en temps réel. Grâce à un capteur embarqué, l'app analyse les frappes, la vitesse, les types de coups et fournit des feedbacks visuels engageants.
+**Padalytics** est une application mobile connectée à une raquette liée à un capteur, permettant aux joueurs de padel de suivre leurs performances en temps réel. Grâce à un capteur embarqué, l'app analyse les frappes, la vitesse, les types de coups et fournit des feedbacks visuels engageants.
 
 > 🚀 **Statistiques. Progression. Motivation.**  
 > Padalytics, c'est le coach numérique qui tient dans votre poche.
