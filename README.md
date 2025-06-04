@@ -39,16 +39,16 @@ Si vous êtes investisseur, partenaire tech ou intéressé par le projet, n'hés
 - Flutter (mobile cross-platform)
 - Firebase (Auth, Firestore, Storage)
 - BLE (Bluetooth Low Energy)
-- FL Chart, animations, custom UI
-- Capteur inertiel WitMotion (WT901BLECL)
+- Chart, animations, custom UI
+- Capteur inertiel BLE
 
 ---
 
 ## 📩 Contact
 
-- 📬 [ton@email.com]
-- 💼 [LinkedIn]
-- 🌍 Site officiel (en cours)
+- 📬 srdevlop@gmail.com
+- 💼 www.linkedin.com/in/stephripa
+- 🌍 padalytics.com
 
 ---
 
