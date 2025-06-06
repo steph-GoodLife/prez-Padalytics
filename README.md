@@ -21,7 +21,7 @@
 
 | Profil utilisateur | scanne et historique | login |
 |--------------------|------------------|------------|
-| ![mock1](8774eb6d-7d06-4b6e-8c63-7d79a5bdc836.jpeg) | ![mock2](9cfe0926-a748-4609-9bb3-76d6b1e72fea.jpeg) | ![mock3](mock-history.png) |
+| ![mock1](8774eb6d-7d06-4b6e-8c63-7d79a5bdc836.jpeg) | ![mock2](9cfe0926-a748-4609-9bb3-76d6b1e72fea.jpeg) | ![mock3](096269f6-72bc-4c19-8b18-ab826848b0d6.jpeg) |
 
 > *(Les visuels sont des maquettes – projet en développement actif.)*
 
