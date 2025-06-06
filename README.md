@@ -21,7 +21,7 @@
 
 | Profil utilisateur | Résumé de session | Historique |
 |--------------------|------------------|------------|
-| ![mock1](mock-profil.png) | ![mock2](mock-recap.png) | ![mock3](mock-history.png) |
+| ![mock1](8774eb6d-7d06-4b6e-8c63-7d79a5bdc836.jpeg) | ![mock2](mock-recap.png) | ![mock3](mock-history.png) |
 
 > *(Les visuels sont des maquettes – projet en développement actif.)*
 
