@@ -14,8 +14,7 @@
 - 🏅 **Badges & XP** : système de récompenses pour gamifier l'entraînement.
 - 📈 **Graphiques de progression** : suivez vos stats dans le temps.
 - 📤 **Partage des sessions** : export visuel de vos meilleures performances.
-- 🤖 **Apprentissage automatisé des sessions - LLM
-- 🗒️ **Feedback personnalisé 
+- 🤖 **Apprentissage automatisé des sessions** : LLM - Feedback personnalisé
 
 ---
 
