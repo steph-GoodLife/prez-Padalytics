@@ -19,7 +19,7 @@
 
 ## 📸 Aperçu de l'application
 
-| Profil utilisateur | Résumé de session | Historique |
+| Profil utilisateur | scanne et historique | login |
 |--------------------|------------------|------------|
 | ![mock1](8774eb6d-7d06-4b6e-8c63-7d79a5bdc836.jpeg) | ![mock2](mock-recap.png) | ![mock3](mock-history.png) |
 
