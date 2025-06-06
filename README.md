@@ -14,6 +14,8 @@
 - 🏅 **Badges & XP** : système de récompenses pour gamifier l'entraînement.
 - 📈 **Graphiques de progression** : suivez vos stats dans le temps.
 - 📤 **Partage des sessions** : export visuel de vos meilleures performances.
+- 🤖 **Apprentissage automatisé des sessions - LLM
+- 🗒️ **Feedback personnalisé 
 
 ---
 
@@ -37,10 +39,10 @@ Si vous êtes investisseur, partenaire tech ou intéressé par le projet, n'hés
 ## 🧠 Stack technique
 
 - Flutter (mobile cross-platform)
-- Firebase (Auth, Firestore, Storage)
+- Firebase
 - BLE (Bluetooth Low Energy)
 - Chart, animations, custom UI
-- Capteur inertiel BLE
+- Capteur inertiel
 
 ---
 
