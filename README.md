@@ -42,6 +42,7 @@ Si vous êtes investisseur, partenaire tech ou intéressé par le projet, n'hés
 - BLE (Bluetooth Low Energy)
 - Chart, animations, custom UI
 - Capteur inertiel
+- Server Node 
 
 ---
 
