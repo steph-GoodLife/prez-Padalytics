@@ -2,7 +2,7 @@
 
 **Padalytics** est une application mobile connectée à un capteur que vous fixez sur votre propre raquette, permettant aux joueurs de suivre leurs performances en temps réel. Grâce au capteur embarqué, l'app analyse les frappes, la vitesse, les types de coups et l’engagement physique et fournit des feedbacks visuels engageants pour progresser.
 
-🚀 **Statistiques. Progression. Motivation.***
+🚀 **Statistiques. Progression. Motivation.**
 Padalytics, c'est le coach qui tient dans ta poche et qui apprend de tes sessions!
 
 ---
