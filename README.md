@@ -50,7 +50,7 @@ Si vous êtes investisseur, partenaire tech ou intéressé par le projet, n'hés
 
 - 📬 srdevlop@gmail.com
 - 💼 www.linkedin.com/in/stephripa
-- 🌍 padalytics.com
+- 🌍 https://padalytics.com
 
 ---
 
